@@ -1,0 +1,17 @@
+.nav-cat-bg {
+    background-color: #ef8b59;
+}
+
+.orange-txt {
+    color: #ef8b59;
+}
+
+.bg-left-img {
+    background-image: url("../images/half-bg-1.png");
+    height: 400px;
+}
+
+.bg-right-img {
+    background-image: url("../images/half-bg-2.png");
+    height: 400px;
+}
